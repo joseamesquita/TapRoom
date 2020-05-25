@@ -34,7 +34,7 @@ Tappers was developed to track Kegs by their name, brand, price, flavor, and qua
 * Webpack
 
 ## Possibility of Future Improvements 
-* Stylying 
+* Styling 
 * Add Contact/About Information Page
 
 ## Available Scripts
